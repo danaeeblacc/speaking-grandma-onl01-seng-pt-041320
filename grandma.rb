@@ -5,10 +5,7 @@ def speak_to_grandma(phrase)
  return == "HUH?! SPEAK UP, SONNY!"
  end
  
-puts "Have you ever been in love?"
-elsif GRANDMA =="HUH?! SPEAK UP, SONNY!"
-puts "HAVE YOU EVER BEEN IN LOVE?"
-elsif GRANDMA == "NO, NOT SINCE 1938!"
+"NO, NOT SINCE 1938!"
 puts 
 elsif GRANDMA == 
 end
