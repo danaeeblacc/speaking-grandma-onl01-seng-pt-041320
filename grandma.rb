@@ -1,8 +1,9 @@
-if speak_to_grandma(phrase)
+def speak_to_grandma(phrase)
+  if phrase == "I LOVE YOU GRANDMA!"
 puts "Have you ever been in love?"
 elsif GRANDMA =="HUH?! SPEAK UP, SONNY!"
 puts "HAVE YOU EVER BEEN IN LOVE?"
 elsif GRANDMA == "NO, NOT SINCE 1938!"
-puts "I LOVE YOU GRANDMA!"
+puts 
 elsif GRANDMA == "I LOVE YOU TOO PUMPKIN!"
 end
