@@ -6,6 +6,4 @@ def speak_to_grandma(phrase)
  end
  
 "NO, NOT SINCE 1938!"
-puts 
-elsif GRANDMA == 
 end
